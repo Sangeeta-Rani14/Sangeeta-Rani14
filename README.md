@@ -10,10 +10,11 @@
 <div align="center">
 
 # Hi 👋, I'm Sangeeta Rani
-### Frontend Architect | React & Next.js Specialist | UI Motion Enthusiast
+### Software Developer | React & Next.js Specialist | UI Motion Enthusiast
 
 [![](https://img.shields.io/badge/Connect-LinkedIn-red?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![](https://img.shields.io/badge/Portfolio-Behance-red?style=for-the-badge&logo=behance)](https://www.behance.net/gallery/210944049/portfolio-2025-graphic-designer)
+[![](https://img.shields.io/badge/LeetCode-Solve--Problems-red?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/your-username)
+[![](https://img.shields.io/badge/Portfolio-View--Work-red?style=for-the-badge&logo=polywork)](https://your-portfolio-link.com)
 
 </div>
 
@@ -22,10 +23,11 @@
 ### ⚡ About Me
 I'm a frontend developer who believes that **code should be as beautiful as it is functional.** With 2 years of experience building complex ERP systems and scalable web apps, I bridge the gap between heavy-duty logic and creative flair.
 
+* ✨ **A bit about me:** I’m the kind of person who gets a tiny shot of adrenaline from a clean git push and a perfectly aligned div.
 * 🍎 **Current Focus:** Crafting seamless user experiences with React, Next.js, and GSAP.
 * 🚀 **Philosophy:** Building "technical robustness without sacrificing aesthetic precision."
-* ✨ **Fun Fact:** I’m a pixel-perfectionist who treats a 1px misalignment like a major bug. 
 * 🏎️ **Vibe:** High performance, low latency, and a splash of red.
+* ☕ **Fuel:** Powered by caffeine and the satisfaction of solving a "Medium" problem on the first try.
 
 ---
 
@@ -57,7 +59,3 @@ I'm a frontend developer who believes that **code should be as beautiful as it i
 - **Tech:** React, Node.js, Problem-Solving Logic.
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=grid&color=ff0000&height=100&section=footer" />
-</div>
